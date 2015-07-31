@@ -1,0 +1,32 @@
+{
+  "name": "all-in-webpack",
+  "version": "1.0.0",
+  "description": "for web development by webpack",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.3",
+    "css-loader": "^0.15.5",
+    "file-loader": "^0.8.4",
+    "img-loader": "^1.2.0",
+    "jade-loader": "^0.7.1",
+    "pleeease-loader": "^1.0.0",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.3",
+    "webpack-notifier": "^1.2.1"
+  },
+  "scripts": {
+    "dev": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekobato/mock-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekobato/mock-template/issues"
+  },
+  "homepage": "https://github.com/nekobato/mock-template#readme"
+}
